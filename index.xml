@@ -1,5 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Demo on hugo-quiz demo</title><link>https://bonartm.github.io/hugo-quiz/</link><description>Recent content in Demo on hugo-quiz demo</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 19 Nov 2019 17:21:20 +0100</lastBuildDate><atom:link href="https://bonartm.github.io/hugo-quiz/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://bonartm.github.io/hugo-quiz/_index2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bonartm.github.io/hugo-quiz/_index2/</guid><description>Неравнодушные люди Назовите российскую общественную организацию, которая объединяет людей, неравнодушных к природе Родины, стремящихся к географическому познанию России и мира во всем их многообразии?
-Основанно в 1845 году.
-Всемирное общество защиты животных Общество защиты интернета Ассоция защиты от миног Русское географическое общество Полезный прибор Устройство, облегчающее ориентирование на местности. Изобретѐн в Китае. Что это?
-Прообразы этого навигационного прибора: буссоль, безель, ветромёт и пелорус.
-Компас Барометр Ареометр Парусное судно В.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ИнтеРешки</title>
+    <link>https://ityum.ru/</link>
+    <description>Recent content on ИнтеРешки</description>
+    <image>
+      <url>https://ityum.ru/papermod-cover.png</url>
+      <link>https://ityum.ru/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ityum.ru/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+  </channel>
+</rss>
