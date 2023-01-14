@@ -2,20 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ityum.ru/archives.fr/</loc>
+    <loc>https://ityum.ru/posts/papermod/papermod-installation/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/posts/papermod/papermod-features/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/posts/papermod/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/posts/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/series/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/tags/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/tags/%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/series/%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/</loc>
+    <lastmod>2023-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/tags/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/tags/markdown/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/posts/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ityum.ru/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ityum.ru/archives/</loc>
   </url><url>
     <loc>https://ityum.ru/categories/</loc>
   </url><url>
     <loc>https://ityum.ru/search/</loc>
-  </url><url>
-    <loc>https://ityum.ru/search.fr/</loc>
-  </url><url>
-    <loc>https://ityum.ru/series/</loc>
-  </url><url>
-    <loc>https://ityum.ru/tags/</loc>
-  </url><url>
-    <loc>https://ityum.ru/</loc>
   </url>
 </urlset>
